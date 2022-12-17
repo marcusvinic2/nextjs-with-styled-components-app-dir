@@ -38,7 +38,10 @@ const StyledLink = ({ href, name }) => (
   </Link>
 )
 
+console.log('Huh?');
+
 export default function Cards() {
+
   return (
     <FlexContainer>
       <Card>
